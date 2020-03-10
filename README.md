@@ -3,6 +3,7 @@
 ## Una calculadora simple usando Flex y Bison
 
 Credenciales de los miembros del equipo:
+
     1.  Juan Pablo de Jesus Figueroa Jaramillo
         No.cuenta: 20140864
         Email: juanpablodejesus_figueroa@ucol.mx
