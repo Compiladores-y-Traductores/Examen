@@ -11,7 +11,7 @@ Credenciales de los miembros del equipo:
 
     2.  Kevin Jetzael Zepeda Bustos
         No.cuenta: 20141089 
-        Email: eljoto@hotmail.com
+        Email: kevinjetzael_zepeda@ucol.mx
         Grupo y Grado: 6 D 
 
 
