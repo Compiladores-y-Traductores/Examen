@@ -9,10 +9,7 @@ Credenciales de los miembros del equipo:
         Email: juanpablodejesus_figueroa@ucol.mx
         Grupo y Grado: 6 D 
 
-    2.  Kevin Jetzael Zepeda Bustos
-        No.cuenta: 20141089 
-        Email: kevinjetzael_zepeda@ucol.mx
-        Grupo y Grado: 6 D 
+    
 
 
 
